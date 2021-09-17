@@ -1,2 +1,2 @@
 # Tic-tac-toe
-simple program using HTML, CSS, JavaScript
+Simple program using HTML, CSS, JavaScript
