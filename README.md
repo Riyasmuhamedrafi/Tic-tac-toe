@@ -1,2 +1,3 @@
 # Tic-tac-toe
-Simple program using HTML, CSS, JavaScript
+Simple Tic-Tac-Toe written using HTML, CSS, JavaScript
+[Live Demo](https://riyasmuhamedrafi.github.io/Tic-tac-toe/)
